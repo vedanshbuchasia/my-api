@@ -1,0 +1,159 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Nike Air Max 270",
+      "description": "The Nike Air Max 270 features the first-ever Max Air unit created specifically for Nike Sportswear. Durable, lightweight and stylish for all-day wear.",
+      "category": "shoes",
+      "price": 149.99,
+      "discountPercentage": 15.0,
+      "rating": 4.5,
+      "stock": 120,
+      "tags": ["nike", "running", "air max"],
+      "brand": "Nike",
+      "sku": "SHO-NIKE-AM270",
+      "weight": 1.2,
+      "dimensions": { "width": 30, "height": 12, "depth": 18 },
+      "warrantyInformation": "30 days manufacturer warranty",
+      "shippingInformation": "Ships in 2-4 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [],
+      "returnPolicy": "7-day return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-01T08:30:00.000Z",
+        "updatedAt": "2025-04-20T12:00:00.000Z",
+        "barcode": "1234567890123",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1606813902294-62c21e3d262d"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1606813902294-62c21e3d262d?w=150"
+    },
+    {
+      "id": 2,
+      "title": "Adidas Ultraboost 22",
+      "description": "Ultraboost 22 provides incredible energy return and cushioning, built for runners who need support and comfort.",
+      "category": "shoes",
+      "price": 179.95,
+      "discountPercentage": 12.5,
+      "rating": 4.8,
+      "stock": 80,
+      "tags": ["adidas", "ultraboost", "running"],
+      "brand": "Adidas",
+      "sku": "SHO-ADI-UB22",
+      "weight": 1.1,
+      "dimensions": { "width": 29, "height": 11, "depth": 17 },
+      "warrantyInformation": "45 days warranty",
+      "shippingInformation": "Ships in 1-3 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [],
+      "returnPolicy": "14-day return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-05T11:00:00.000Z",
+        "updatedAt": "2025-04-18T16:00:00.000Z",
+        "barcode": "2345678901234",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1618354691211-7097b1c7aa38"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1618354691211-7097b1c7aa38?w=150"
+    },
+    {
+      "id": 3,
+      "title": "Puma RS-X³",
+      "description": "The Puma RS-X³ sneakers feature bold color blocking, a cushioned sole and a retro aesthetic for streetwear lovers.",
+      "category": "shoes",
+      "price": 99.99,
+      "discountPercentage": 18.0,
+      "rating": 4.2,
+      "stock": 65,
+      "tags": ["puma", "retro", "fashion"],
+      "brand": "Puma",
+      "sku": "SHO-PUMA-RSX3",
+      "weight": 1.3,
+      "dimensions": { "width": 31, "height": 13, "depth": 19 },
+      "warrantyInformation": "3 months warranty",
+      "shippingInformation": "Ships in 3-5 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [],
+      "returnPolicy": "10-day return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-07T14:00:00.000Z",
+        "updatedAt": "2025-04-15T09:00:00.000Z",
+        "barcode": "3456789012345",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1628191010891-26977c50f6e6"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1628191010891-26977c50f6e6?w=150"
+    },
+    {
+      "id": 4,
+      "title": "New Balance 574",
+      "description": "A classic silhouette updated with a cushioned midsole and durable upper for all-day comfort and style.",
+      "category": "shoes",
+      "price": 89.99,
+      "discountPercentage": 10.0,
+      "rating": 4.0,
+      "stock": 45,
+      "tags": ["new balance", "classic", "everyday"],
+      "brand": "New Balance",
+      "sku": "SHO-NB-574",
+      "weight": 1.0,
+      "dimensions": { "width": 28, "height": 10, "depth": 16 },
+      "warrantyInformation": "60-day warranty",
+      "shippingInformation": "Ships in 2-3 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [],
+      "returnPolicy": "No return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-03T12:30:00.000Z",
+        "updatedAt": "2025-04-10T17:30:00.000Z",
+        "barcode": "4567890123456",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1630097392032-9638eb5989f2"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1630097392032-9638eb5989f2?w=150"
+    },
+    {
+      "id": 5,
+      "title": "Reebok Classic Leather",
+      "description": "Timeless design meets premium leather and cushioned comfort. Ideal for casual and retro styling.",
+      "category": "shoes",
+      "price": 74.50,
+      "discountPercentage": 20.0,
+      "rating": 3.8,
+      "stock": 35,
+      "tags": ["reebok", "leather", "classic"],
+      "brand": "Reebok",
+      "sku": "SHO-REEB-CL",
+      "weight": 1.05,
+      "dimensions": { "width": 27, "height": 10, "depth": 15 },
+      "warrantyInformation": "1-year limited warranty",
+      "shippingInformation": "Ships in 2 days",
+      "availabilityStatus": "In Stock",
+      "reviews": [],
+      "returnPolicy": "30-day return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-02T15:00:00.000Z",
+        "updatedAt": "2025-04-08T10:00:00.000Z",
+        "barcode": "5678901234567",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1627328715728-7bcc1b5db87d"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1627328715728-7bcc1b5db87d?w=150"
+    }
+  ]
+}
