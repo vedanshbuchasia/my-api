@@ -2,158 +2,588 @@
   "products": [
     {
       "id": 1,
-      "title": "Nike Air Max 270",
-      "description": "The Nike Air Max 270 features the first-ever Max Air unit created specifically for Nike Sportswear. Durable, lightweight and stylish for all-day wear.",
+      "title": "Reebok Shoe Model 1",
+      "description": "The Reebok Shoe Model 1 offers excellent performance and modern design. Ideal for daily wear and sports activities.",
       "category": "shoes",
-      "price": 149.99,
-      "discountPercentage": 15.0,
-      "rating": 4.5,
-      "stock": 120,
-      "tags": ["nike", "running", "air max"],
-      "brand": "Nike",
-      "sku": "SHO-NIKE-AM270",
-      "weight": 1.2,
-      "dimensions": { "width": 30, "height": 12, "depth": 18 },
-      "warrantyInformation": "30 days manufacturer warranty",
-      "shippingInformation": "Ships in 2-4 business days",
+      "price": 156.64,
+      "discountPercentage": 10.9,
+      "rating": 4.4,
+      "stock": 122,
+      "tags": [
+        "reebok",
+        "classic",
+        "shoes"
+      ],
+      "brand": "Reebok",
+      "sku": "SHO-REE-001",
+      "weight": 1.15,
+      "dimensions": {
+        "width": 28,
+        "height": 13,
+        "depth": 16
+      },
+      "warrantyInformation": "90-day warranty",
+      "shippingInformation": "Ships in 3 business days",
       "availabilityStatus": "In Stock",
       "reviews": [],
       "returnPolicy": "7-day return policy",
       "minimumOrderQuantity": 1,
       "meta": {
-        "createdAt": "2025-04-01T08:30:00.000Z",
-        "updatedAt": "2025-04-20T12:00:00.000Z",
-        "barcode": "1234567890123",
+        "createdAt": "2025-04-07T00:00:00Z",
+        "updatedAt": "2025-04-10T00:00:00Z",
+        "barcode": "8114973131238",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "https://images.unsplash.com/photo-1606813902294-62c21e3d262d"
+        "https://plus.unsplash.com/premium_photo-1663100769321-9eb8fe5a8e6b?q=80&w=872&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ],
-      "thumbnail": "https://images.unsplash.com/photo-1606813902294-62c21e3d262d?w=150"
+      "thumbnail": "https://plus.unsplash.com/premium_photo-1663100769321-9eb8fe5a8e6b?q=80&w=872&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "id": 2,
-      "title": "Adidas Ultraboost 22",
-      "description": "Ultraboost 22 provides incredible energy return and cushioning, built for runners who need support and comfort.",
+      "title": "Nike Shoe Model 2",
+      "description": "The Nike Shoe Model 2 offers excellent performance and modern design. Ideal for daily wear and sports activities.",
       "category": "shoes",
-      "price": 179.95,
-      "discountPercentage": 12.5,
-      "rating": 4.8,
-      "stock": 80,
-      "tags": ["adidas", "ultraboost", "running"],
-      "brand": "Adidas",
-      "sku": "SHO-ADI-UB22",
-      "weight": 1.1,
-      "dimensions": { "width": 29, "height": 11, "depth": 17 },
-      "warrantyInformation": "45 days warranty",
-      "shippingInformation": "Ships in 1-3 business days",
-      "availabilityStatus": "In Stock",
-      "reviews": [],
-      "returnPolicy": "14-day return policy",
-      "minimumOrderQuantity": 1,
-      "meta": {
-        "createdAt": "2025-04-05T11:00:00.000Z",
-        "updatedAt": "2025-04-18T16:00:00.000Z",
-        "barcode": "2345678901234",
-        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
-      },
-      "images": [
-        "https://images.unsplash.com/photo-1618354691211-7097b1c7aa38"
+      "price": 83.2,
+      "discountPercentage": 18.6,
+      "rating": 4.1,
+      "stock": 48,
+      "tags": [
+        "nike",
+        "airmax",
+        "shoes"
       ],
-      "thumbnail": "https://images.unsplash.com/photo-1618354691211-7097b1c7aa38?w=150"
-    },
-    {
-      "id": 3,
-      "title": "Puma RS-X³",
-      "description": "The Puma RS-X³ sneakers feature bold color blocking, a cushioned sole and a retro aesthetic for streetwear lovers.",
-      "category": "shoes",
-      "price": 99.99,
-      "discountPercentage": 18.0,
-      "rating": 4.2,
-      "stock": 65,
-      "tags": ["puma", "retro", "fashion"],
-      "brand": "Puma",
-      "sku": "SHO-PUMA-RSX3",
-      "weight": 1.3,
-      "dimensions": { "width": 31, "height": 13, "depth": 19 },
-      "warrantyInformation": "3 months warranty",
-      "shippingInformation": "Ships in 3-5 business days",
-      "availabilityStatus": "In Stock",
-      "reviews": [],
-      "returnPolicy": "10-day return policy",
-      "minimumOrderQuantity": 1,
-      "meta": {
-        "createdAt": "2025-04-07T14:00:00.000Z",
-        "updatedAt": "2025-04-15T09:00:00.000Z",
-        "barcode": "3456789012345",
-        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      "brand": "Nike",
+      "sku": "SHO-NIK-002",
+      "weight": 1.21,
+      "dimensions": {
+        "width": 30,
+        "height": 11,
+        "depth": 17
       },
-      "images": [
-        "https://images.unsplash.com/photo-1628191010891-26977c50f6e6"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1628191010891-26977c50f6e6?w=150"
-    },
-    {
-      "id": 4,
-      "title": "New Balance 574",
-      "description": "A classic silhouette updated with a cushioned midsole and durable upper for all-day comfort and style.",
-      "category": "shoes",
-      "price": 89.99,
-      "discountPercentage": 10.0,
-      "rating": 4.0,
-      "stock": 45,
-      "tags": ["new balance", "classic", "everyday"],
-      "brand": "New Balance",
-      "sku": "SHO-NB-574",
-      "weight": 1.0,
-      "dimensions": { "width": 28, "height": 10, "depth": 16 },
       "warrantyInformation": "60-day warranty",
-      "shippingInformation": "Ships in 2-3 business days",
-      "availabilityStatus": "In Stock",
-      "reviews": [],
-      "returnPolicy": "No return policy",
-      "minimumOrderQuantity": 1,
-      "meta": {
-        "createdAt": "2025-04-03T12:30:00.000Z",
-        "updatedAt": "2025-04-10T17:30:00.000Z",
-        "barcode": "4567890123456",
-        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
-      },
-      "images": [
-        "https://images.unsplash.com/photo-1630097392032-9638eb5989f2"
-      ],
-      "thumbnail": "https://images.unsplash.com/photo-1630097392032-9638eb5989f2?w=150"
-    },
-    {
-      "id": 5,
-      "title": "Reebok Classic Leather",
-      "description": "Timeless design meets premium leather and cushioned comfort. Ideal for casual and retro styling.",
-      "category": "shoes",
-      "price": 74.50,
-      "discountPercentage": 20.0,
-      "rating": 3.8,
-      "stock": 35,
-      "tags": ["reebok", "leather", "classic"],
-      "brand": "Reebok",
-      "sku": "SHO-REEB-CL",
-      "weight": 1.05,
-      "dimensions": { "width": 27, "height": 10, "depth": 15 },
-      "warrantyInformation": "1-year limited warranty",
-      "shippingInformation": "Ships in 2 days",
+      "shippingInformation": "Ships in 5 business days",
       "availabilityStatus": "In Stock",
       "reviews": [],
       "returnPolicy": "30-day return policy",
       "minimumOrderQuantity": 1,
       "meta": {
-        "createdAt": "2025-04-02T15:00:00.000Z",
-        "updatedAt": "2025-04-08T10:00:00.000Z",
-        "barcode": "5678901234567",
+        "createdAt": "2025-04-07T00:00:00Z",
+        "updatedAt": "2025-04-08T00:00:00Z",
+        "barcode": "4803036217210",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "https://images.unsplash.com/photo-1627328715728-7bcc1b5db87d"
+        "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ],
-      "thumbnail": "https://images.unsplash.com/photo-1627328715728-7bcc1b5db87d?w=150"
-    }
+      "thumbnail": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 3,
+      "title": "Nike Shoe Model 3",
+      "description": "The Nike Shoe Model 3 offers excellent performance and modern design. Ideal for daily wear and sports activities.",
+      "category": "shoes",
+      "price": 105.88,
+      "discountPercentage": 13.4,
+      "rating": 3.9,
+      "stock": 34,
+      "tags": [
+        "nike",
+        "airmax",
+        "shoes"
+      ],
+      "brand": "Nike",
+      "sku": "SHO-NIK-003",
+      "weight": 1.14,
+      "dimensions": {
+        "width": 28,
+        "height": 11,
+        "depth": 18
+      },
+      "warrantyInformation": "90-day warranty",
+      "shippingInformation": "Ships in 2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [],
+      "returnPolicy": "7-day return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-09T00:00:00Z",
+        "updatedAt": "2025-04-14T00:00:00Z",
+        "barcode": "7347986644237",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1670105084645-d4e3c9800776?q=80&w=978&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1670105084645-d4e3c9800776?q=80&w=978&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 4,
+      "title": "Puma Shoe Model 4",
+      "description": "The Puma Shoe Model 4 offers excellent performance and modern design. Ideal for daily wear and sports activities.",
+      "category": "shoes",
+      "price": 176.86,
+      "discountPercentage": 23.7,
+      "rating": 4.5,
+      "stock": 133,
+      "tags": [
+        "puma",
+        "rsx",
+        "shoes"
+      ],
+      "brand": "Puma",
+      "sku": "SHO-PUM-004",
+      "weight": 1.46,
+      "dimensions": {
+        "width": 32,
+        "height": 12,
+        "depth": 17
+      },
+      "warrantyInformation": "30-day warranty",
+      "shippingInformation": "Ships in 1 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [],
+      "returnPolicy": "30-day return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-10T00:00:00Z",
+        "updatedAt": "2025-04-12T00:00:00Z",
+        "barcode": "5717335602925",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1715003132895-b10a23d3c90f?q=80&w=1032&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1715003132895-b10a23d3c90f?q=80&w=1032&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 5,
+      "title": "Adidas Shoe Model 5",
+      "description": "The Adidas Shoe Model 5 offers excellent performance and modern design. Ideal for daily wear and sports activities.",
+      "category": "shoes",
+      "price": 77.95,
+      "discountPercentage": 16.0,
+      "rating": 4.0,
+      "stock": 82,
+      "tags": [
+        "reebok",
+        "classic",
+        "shoes"
+      ],
+      "brand": "Adidas",
+      "sku": "SHO-REE-005",
+      "weight": 1.11,
+      "dimensions": {
+        "width": 32,
+        "height": 12,
+        "depth": 19
+      },
+      "warrantyInformation": "60-day warranty",
+      "shippingInformation": "Ships in 2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [],
+      "returnPolicy": "7-day return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-10T00:00:00Z",
+        "updatedAt": "2025-04-12T00:00:00Z",
+        "barcode": "3859666781074",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1534211269469-314ffbac5b34?q=80&w=869&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1534211269469-314ffbac5b34?q=80&w=869&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 6,
+      "title": "Puma Shoe Model 6",
+      "description": "The Puma Shoe Model 6 offers excellent performance and modern design. Ideal for daily wear and sports activities.",
+      "category": "shoes",
+      "price": 88.75,
+      "discountPercentage": 15.0,
+      "rating": 4.2,
+      "stock": 144,
+      "tags": [
+        "puma",
+        "rsx",
+        "shoes"
+      ],
+      "brand": "Puma",
+      "sku": "SHO-PUM-006",
+      "weight": 1.26,
+      "dimensions": {
+        "width": 31,
+        "height": 10,
+        "depth": 20
+      },
+      "warrantyInformation": "60-day warranty",
+      "shippingInformation": "Ships in 3 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [],
+      "returnPolicy": "No return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-07T00:00:00Z",
+        "updatedAt": "2025-04-08T00:00:00Z",
+        "barcode": "3126874232365",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1593548366595-c449f72ccb3d?q=80&w=812&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1593548366595-c449f72ccb3d?q=80&w=812&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 7,
+      "title": "Adidas Shoe Model 7",
+      "description": "The Adidas Shoe Model 7 offers excellent performance and modern design. Ideal for daily wear and sports activities.",
+      "category": "shoes",
+      "price": 147.13,
+      "discountPercentage": 24.7,
+      "rating": 3.5,
+      "stock": 121,
+      "tags": [
+        "adidas",
+        "ultraboost",
+        "shoes"
+      ],
+      "brand": "Adidas",
+      "sku": "SHO-ADI-007",
+      "weight": 1.4,
+      "dimensions": {
+        "width": 31,
+        "height": 13,
+        "depth": 16
+      },
+      "warrantyInformation": "60-day warranty",
+      "shippingInformation": "Ships in 4 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [],
+      "returnPolicy": "7-day return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-05T00:00:00Z",
+        "updatedAt": "2025-04-09T00:00:00Z",
+        "barcode": "2118743175438",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1656057903797-175389ce695d?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1656057903797-175389ce695d?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 8,
+      "title": "Under Armour Shoe Model 8",
+      "description": "The Under Armour Shoe Model 8 offers excellent performance and modern design. Ideal for daily wear and sports activities.",
+      "category": "shoes",
+      "price": 104.74,
+      "discountPercentage": 14.3,
+      "rating": 4.1,
+      "stock": 95,
+      "tags": [
+        "adidas",
+        "ultraboost",
+        "shoes"
+      ],
+      "brand": "Under Armour",
+      "sku": "SHO-ADI-008",
+      "weight": 1.19,
+      "dimensions": {
+        "width": 31,
+        "height": 11,
+        "depth": 18
+      },
+      "warrantyInformation": "60-day warranty",
+      "shippingInformation": "Ships in 1 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [],
+      "returnPolicy": "No return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-02T00:00:00Z",
+        "updatedAt": "2025-04-07T00:00:00Z",
+        "barcode": "8259634566965",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1635770997779-8ec3396088a5?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1635770997779-8ec3396088a5?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 9,
+      "title": "New Balance Shoe Model 9",
+      "description": "The New Balance Shoe Model 9 offers excellent performance and modern design. Ideal for daily wear and sports activities.",
+      "category": "shoes",
+      "price": 197.59,
+      "discountPercentage": 12.1,
+      "rating": 4.0,
+      "stock": 52,
+      "tags": [
+        "new balance",
+        "574",
+        "shoes"
+      ],
+      "brand": "New Balance",
+      "sku": "SHO-NEW-009",
+      "weight": 1.04,
+      "dimensions": {
+        "width": 27,
+        "height": 11,
+        "depth": 17
+      },
+      "warrantyInformation": "60-day warranty",
+      "shippingInformation": "Ships in 3 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [],
+      "returnPolicy": "7-day return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-02T00:00:00Z",
+        "updatedAt": "2025-04-03T00:00:00Z",
+        "barcode": "9665537498860",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1738951878919-a4484dc75adc?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1738951878919-a4484dc75adc?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 10,
+      "title": "Adidas Shoe Model 10",
+      "description": "The Adidas Shoe Model 10 offers excellent performance and modern design. Ideal for daily wear and sports activities.",
+      "category": "shoes",
+      "price": 91.88,
+      "discountPercentage": 10.8,
+      "rating": 4.1,
+      "stock": 106,
+      "tags": [
+        "adidas",
+        "ultraboost",
+        "shoes"
+      ],
+      "brand": "Adidas",
+      "sku": "SHO-ADI-010",
+      "weight": 1.08,
+      "dimensions": {
+        "width": 32,
+        "height": 13,
+        "depth": 16
+      },
+      "warrantyInformation": "60-day warranty",
+      "shippingInformation": "Ships in 3 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [],
+      "returnPolicy": "7-day return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-01T00:00:00Z",
+        "updatedAt": "2025-04-06T00:00:00Z",
+        "barcode": "7478699777204",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1711719745936-ff93f602246e?q=80&w=813&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1711719745936-ff93f602246e?q=80&w=813&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 11,
+      "title": "Nike Shoe Model 11",
+      "description": "The Nike Shoe Model 11 offers excellent performance and modern design. Ideal for daily wear and sports activities.",
+      "category": "shoes",
+      "price": 185.3,
+      "discountPercentage": 10.2,
+      "rating": 4.4,
+      "stock": 125,
+      "tags": [
+        "nike",
+        "airmax",
+        "shoes"
+      ],
+      "brand": "Nike",
+      "sku": "SHO-NIK-011",
+      "weight": 1.45,
+      "dimensions": {
+        "width": 27,
+        "height": 13,
+        "depth": 19
+      },
+      "warrantyInformation": "90-day warranty",
+      "shippingInformation": "Ships in 1 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [],
+      "returnPolicy": "14-day return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-11T00:00:00Z",
+        "updatedAt": "2025-04-12T00:00:00Z",
+        "barcode": "5170225846912",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1731132198530-e4b2dc51d511?q=80&w=1032&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1731132198530-e4b2dc51d511?q=80&w=1032&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 12,
+      "title": "Adidas Shoe Model 12",
+      "description": "The Adidas Shoe Model 12 offers excellent performance and modern design. Ideal for daily wear and sports activities.",
+      "category": "shoes",
+      "price": 83.03,
+      "discountPercentage": 24.7,
+      "rating": 4.8,
+      "stock": 84,
+      "tags": [
+        "adidas",
+        "ultraboost",
+        "shoes"
+      ],
+      "brand": "Adidas",
+      "sku": "SHO-ADI-012",
+      "weight": 1.14,
+      "dimensions": {
+        "width": 27,
+        "height": 12,
+        "depth": 19
+      },
+      "warrantyInformation": "60-day warranty",
+      "shippingInformation": "Ships in 5 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [],
+      "returnPolicy": "No return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-06T00:00:00Z",
+        "updatedAt": "2025-04-11T00:00:00Z",
+        "barcode": "9052246632439",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1518002171953-a080ee817e1f?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1518002171953-a080ee817e1f?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 13,
+      "title": "Nike Shoe Model 13",
+      "description": "The Nike Shoe Model 13 offers excellent performance and modern design. Ideal for daily wear and sports activities.",
+      "category": "shoes",
+      "price": 119.58,
+      "discountPercentage": 21.5,
+      "rating": 3.9,
+      "stock": 84,
+      "tags": [
+        "nike",
+        "airmax",
+        "shoes"
+      ],
+      "brand": "Nike",
+      "sku": "SHO-NIK-013",
+      "weight": 1.31,
+      "dimensions": {
+        "width": 31,
+        "height": 11,
+        "depth": 19
+      },
+      "warrantyInformation": "60-day warranty",
+      "shippingInformation": "Ships in 3 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [],
+      "returnPolicy": "30-day return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-08T00:00:00Z",
+        "updatedAt": "2025-04-12T00:00:00Z",
+        "barcode": "5339192613928",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1515955656352-a1fa3ffcd111?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1515955656352-a1fa3ffcd111?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 14,
+      "title": "Puma Shoe Model 14",
+      "description": "The Puma Shoe Model 14 offers excellent performance and modern design. Ideal for daily wear and sports activities.",
+      "category": "shoes",
+      "price": 194.03,
+      "discountPercentage": 18.1,
+      "rating": 4.8,
+      "stock": 96,
+      "tags": [
+        "puma",
+        "rsx",
+        "shoes"
+      ],
+      "brand": "Puma",
+      "sku": "SHO-PUM-014",
+      "weight": 1.38,
+      "dimensions": {
+        "width": 31,
+        "height": 10,
+        "depth": 17
+      },
+      "warrantyInformation": "90-day warranty",
+      "shippingInformation": "Ships in 3 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [],
+      "returnPolicy": "14-day return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-09T00:00:00Z",
+        "updatedAt": "2025-04-13T00:00:00Z",
+        "barcode": "5014592069827",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1715001750243-7b8d552d4778?q=80&w=1032&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1715001750243-7b8d552d4778?q=80&w=1032&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 15,
+      "title": "Adidas Shoe Model 15",
+      "description": "The Adidas Shoe Model 15 offers excellent performance and modern design. Ideal for daily wear and sports activities.",
+      "category": "shoes",
+      "price": 99.35,
+      "discountPercentage": 20.0,
+      "rating": 3.9,
+      "stock": 84,
+      "tags": [
+        "adidas",
+        "ultraboost",
+        "shoes"
+      ],
+      "brand": "Adidas",
+      "sku": "SHO-ADI-015",
+      "weight": 1.12,
+      "dimensions": {
+        "width": 28,
+        "height": 12,
+        "depth": 15
+      },
+      "warrantyInformation": "30-day warranty",
+      "shippingInformation": "Ships in 5 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [],
+      "returnPolicy": "30-day return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-04T00:00:00Z",
+        "updatedAt": "2025-04-05T00:00:00Z",
+        "barcode": "5942216234385",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1623018996682-717d5c453907?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "thumbnail": "https://images.unsplash.com/photo-1623018996682-717d5c453907?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }  
   ]
 }
